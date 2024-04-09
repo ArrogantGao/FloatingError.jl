@@ -1,5 +1,5 @@
 module FloatingError
 
-# Write your package code here.
+include("core.jl")
 
 end
