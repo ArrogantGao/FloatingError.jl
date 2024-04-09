@@ -3,6 +3,9 @@ uuid = "5d056e38-7323-42c3-ac3e-20e2b8377681"
 authors = ["Xuanzhao Gao <gaoxuanzhao@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Estrin = "4642663a-9907-4130-9c18-0ebd857e5e35"
+
 [compat]
 julia = "1"
 
